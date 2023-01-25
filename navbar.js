@@ -22,12 +22,11 @@ $(document).ready(function(){
           </div>
         </li>
         <li>
-          <a href="#">Seller</a>
+          <a href="#">Pipeline & Portfolio</a>
           <div class="uk-navbar-dropdown">
             <ul class="uk-nav uk-navbar-dropdown-nav">
-              <li><a href="https://www.golinks.io/psg" rel="noopener noreferrer" target="_parent" >Profitable Seller Growth</a></li>
-              <li><a href="https://www.golinks.io/sellerokr" rel="noopener noreferrer" target="_parent" >Seller OKRs</a></li>
-              <li><a href="https://www.golinks.io/iva" rel="noopener noreferrer" target="_parent" >Consolidated VA Tracking</a></li>
+              <li><a href="https://www.golinks.io/expecteddebt" rel="noopener noreferrer" target="_parent" >Expected Debt</a></li>
+              
             </ul>
           </div>
         </li>
