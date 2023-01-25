@@ -26,12 +26,14 @@ $(document).ready(function(){
           <div class="uk-navbar-dropdown">
             <ul class="uk-nav uk-navbar-dropdown-nav">
               <li><a href="https://www.golinks.io/expecteddebt" rel="noopener noreferrer" target="_parent" >Expected Debt</a></li>
+              <li><a href="https://www.golinks.io/bbanalytics" rel="noopener noreferrer" target="_parent" >BB Analytics</a></li>
               
+   
             </ul>
           </div>
         </li>
         <li>
-          <a href="#">S&S</a>
+          <a href="#">BPO Metrics</a>
           <div class="uk-navbar-dropdown">
             <ul class="uk-nav uk-navbar-dropdown-nav">
               <li><a href="https://www.golinks.io/sse2e" rel="noopener noreferrer" target="_parent" >S&S End-to-End</a></li>
@@ -46,7 +48,7 @@ $(document).ready(function(){
           </div>
         </li>
          <li>
-          <a href="#">Buyer</a>
+          <a href="#">Deal Team Dashboards</a>
           <div class="uk-navbar-dropdown">
                     <ul class="uk-nav uk-navbar-dropdown-nav">
                         <li class="uk-nav-header">Buyer Product</li>
@@ -68,7 +70,7 @@ $(document).ready(function(){
                 </div>
             </li>
         <li>
-          <a href="#">Market Ops</a>
+          <a href="CapM - Placeholder"></a>
           <div class="uk-navbar-dropdown">
             <ul class="uk-nav uk-navbar-dropdown-nav">
               <li><a href="https://www.golinks.io/wbrreport" rel="noopener noreferrer" target="_parent" >WBR Metrics Report</a></li>
@@ -81,36 +83,11 @@ $(document).ready(function(){
           </div>
         </li>
         <li>
-          <a href="#">Consumer Growth</a>
+          <a href="#">CapM - Placeholder</a>
           <div class="uk-navbar-dropdown">
             <ul class="uk-nav uk-navbar-dropdown-nav">
               <li><a href="https://www.golinks.io/growthokrs" rel="noopener noreferrer" target="_parent" >Consumer Growth OKRs</a></li>
               <li><a href="https://www.golinks.io/onboardingdash" rel="noopener noreferrer" target="_parent" >Onboarding Flow Dashboard</a></li>
-            </ul>
-          </div>
-        </li>
-        <li>
-          <a href="#">Lifecycle/Re-engagement</a>
-          <div class="uk-navbar-dropdown">
-            <ul class="uk-nav uk-navbar-dropdown-nav">
-              <li><a href="https://www.golinks.io/autoofferspipeline" rel="noopener noreferrer" target="_parent" >Auto Offer Pipeline Performance</a></li>
-              <li><a href="https://www.golinks.io/lifecycleworkflow" rel="noopener noreferrer" target="_parent" >Lifecycle Workflow Performance</a></li>
-            </ul>
-          </div>
-        </li>
-        <li>
-          <a href="#">Pricing</a>
-          <div class="uk-navbar-dropdown">
-            <ul class="uk-nav uk-navbar-dropdown-nav">
-              <li><a href="https://www.golinks.io/conversionpricing" rel="noopener noreferrer" target="_parent" >Conversion Pricing Metrics</a></li>
-              <li><a href="https://www.golinks.io/underwriting" rel="noopener noreferrer" target="_parent" >Underwriting Analysis</a></li>
-              <li><a href="https://www.golinks.io/buyboxexpansion" rel="noopener noreferrer" target="_parent" >Buybox Expansion</a></li>
-              <li><a href="https://www.golinks.io/heatmapssummary" rel="noopener noreferrer" target="_parent" >Heatmaps Summary</a></li>
-              <li><a href="https://www.golinks.io/heatmapssummary" rel="noopener noreferrer" target="_parent" >Heatmaps Detail</a></li>
-              <li><a href="https://www.golinks.io/heatmapsdetail" rel="noopener noreferrer" target="_parent" >Heatmaps Summary</a></li>
-              <li><a href="https://www.golinks.io/paperformancedash" rel="noopener noreferrer" target="_parent" >PA Performance Dashboard</a></li>
-              <li><a href="https://www.golinks.io/pricingqueue" rel="noopener noreferrer" target="_parent" >Pricing Queue</a></li>
-              <li><a href="https://www.golinks.io/quarterlyreview" rel="noopener noreferrer" target="_parent" >Pricing Quarterly Review</a></li>
             </ul>
           </div>
         </li>
