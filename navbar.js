@@ -69,11 +69,11 @@ $(document).ready(function(){
                     </ul>
                 </div>
             </li>
-        <li>
+             <li>
           <a href="CapM - Placeholder"></a>
           <div class="uk-navbar-dropdown">
             <ul class="uk-nav uk-navbar-dropdown-nav">
-              <li><a href="https://www.golinks.io/wbrreport" rel="noopener noreferrer" target="_parent" >WBR Metrics Report</a></li>
+              <li><a href="https://www.golinks.io/exceptions" rel="noopener noreferrer" target="_parent" >WBR Metrics Report</a></li>
               <li><a href="https://www.golinks.io/inventorythroughput" rel="noopener noreferrer" target="_parent" >Inventory Throughput</a></li>
               <li><a href="https://www.golinks.io/securitysystems" rel="noopener noreferrer" target="_parent" >T&S Security Systems Dashboard</a></li>
               <li><a href="https://www.golinks.io/incidents" rel="noopener noreferrer" target="_parent" >T&S Incident Dashboard</a></li>
