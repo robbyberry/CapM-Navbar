@@ -31,10 +31,6 @@ $(document).ready(function(){
             <ul class="uk-nav uk-navbar-dropdown-nav">
                 <li class="uk-nav-header">Ops Favorites</li>
               <li><a href="https://www.golinks.io/opsmasterfile" rel="noopener noreferrer" target="_parent" >Ops Master File</a></li>
-              <li><a href="https://www.golinks.io/termresold" rel="noopener noreferrer" target="_parent" >Term Resold Reports</a></li>
-              <li><a href="https://www.golinks.io/assetschedules" rel="noopener noreferrer" target="_parent" >Facility Asset Schedules</a></li>
-              <li><a href="https://www.golinks.io/notallocated" rel="noopener noreferrer" target="_parent" >Reporting Tokens Not Allocated</a></li>
-              <li><a href="https://www.golinks.io/mezzpendingreleases" rel="noopener noreferrer" target="_parent" >Mezz Pending Releases</a></li>
               <li class="uk-nav-divider"></li>
                    <li class="uk-nav-header">Reporting</li>
               <li><a href="https://www.golinks.io/termresold" rel="noopener noreferrer" target="_parent" >Term Resold Reports</a></li>
