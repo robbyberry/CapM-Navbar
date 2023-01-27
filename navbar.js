@@ -8,6 +8,9 @@ $(document).ready(function(){
             <img
               src="https://imgdrop.imgix.net/78cd98232496454f991c20be2d28dc01.svg"
             />
+            <img 
+              src="https://media.tenor.com/D1OWoFNgBUgAAAAd/scrooge-mcduck-money.gif"
+            />  
           </a>
       </li>
         <li>
