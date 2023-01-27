@@ -52,6 +52,7 @@ $(document).ready(function(){
                             <li><a href="https://www.golinks.io/dealmasterfile" rel="noopener noreferrer" target="_parent" >Deal Team Master File</a></li>
                             <li><a href="https://www.golinks.io/kkrbiweekly" rel="noopener noreferrer" target="_parent" >KKR Biweekly Report</a></li>
                             <li><a href="https://www.golinks.io/mezzqueries" rel="noopener noreferrer" target="_parent" >Mezz Queries</a></li>
+                            <li><a href="https://www.golinks.io/securitizationdata" rel="noopener noreferrer" target="_parent" >Securitization Data Tape</a></li>
                         <li class="uk-nav-divider"></li>
                         <li class="uk-nav-header">Other - Placeholder</li>
                     </ul>
