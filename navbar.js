@@ -93,6 +93,7 @@ $(document).ready(function(){
           <a href="#">Non-Mode Links</a>
           <div class="uk-navbar-dropdown">
             <ul class="uk-nav uk-navbar-dropdown-nav">
+              <li><a href="https://www.golinks.io/setpointbb" rel="noopener noreferrer" target="_parent" >Setpoint BB Tracker</a></li>
               <li><a href="https://www.golinks.io/exceptions" rel="noopener noreferrer" target="_parent" >Lender Finance Exception Reporting</a></li>
               <li><a href="https://www.golinks.io/hcportal" rel="noopener noreferrer" target="_parent" >House Canary Portal</a></li>
               <li><a href="https://www.golinks.io/ccportal" rel="noopener noreferrer" target="_parent" >Clear Capital Portal</a></li>
